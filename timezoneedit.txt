@@ -1,0 +1,10 @@
+[Section]
+Name = Windows Time Zone Editor
+Version = 4.0
+License = Unknown
+Description = Time Zone Editor from Windows NT 4.0.
+Category = 11
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/tzedit.exe
+SHA1 = E61EF2EF7F8C58BD245376AE177556C7BD33FD96
+SizeBytes = 43520
+Icon = timezoneedit.ico

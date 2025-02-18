@@ -1,0 +1,11 @@
+[Section]
+Name = Windows PowerShell
+Version = 2.0
+License = Unknown
+Description = Adds Windows PowerShell v2 and WinRM v2 to the System.
+Category = 10
+URLSite = https://legacyupdate.net/download-center/download/16818/update-for-windows-xp-kb968930
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-firstparty/WindowsXP-KB968930-x86-ENG.exe
+SHA1 = 540d661066953d76a6907b6ee0d1cd4531c1e1c6
+SizeBytes = 6156064
+Icon = powershell.ico

@@ -1,0 +1,11 @@
+[Section]
+Name = Microsoft Virtual PC
+Version = 2007
+License = Unknown
+Description = You can create and run one or more virtual machines, each with its own operating system, on a single computer.
+Category = 10
+URLSite = https://legacyupdate.net/download-center/download/4580/virtual-pc-2007
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-firstparty/setup.exe
+SHA1 = f5a5a93ddd5b6dcc4b40a538d3d2b124c15c34b7
+SizeBytes = 31884672
+Icon = vpc.ico

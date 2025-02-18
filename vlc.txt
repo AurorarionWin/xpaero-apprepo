@@ -1,0 +1,16 @@
+[Section]
+Name = VLC media player
+Version = 3.0.18
+License = GPL
+Description = A fully featured FOSS media player with built-in codecs.
+Category = 2
+URLSite = http://www.videolan.org/vlc/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/vlc-3.0.18-win32.exe
+SHA1 = 5c82fe5bab170139c5337f5826bc11f67bcdcb8e
+SizeBytes = 42732352
+Icon = vlc.ico
+
+[Section.amd64]
+URLDownload = https://ftp.icm.edu.pl/pub/video/vlc/vlc/3.0.18/win64/vlc-3.0.18-win64.msi
+SHA1 = f6dd9271d16ed5bb90b4918eeda95b8d73277f1b
+SizeBytes = 59115008

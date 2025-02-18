@@ -1,0 +1,11 @@
+[Section]
+Name = XPS Essential Pack
+Version = 1.2
+License = Unknown
+Description = With the XPS Essentials Pack you can quickly begin reading and generating XPS Documents. It contains XPS Viewer EP to read XPS Documents and the Microsoft XPS Document Writer to output files to the XPS Document format.
+Category = 10
+URLSite = https://legacyupdate.net/download-center/download/11816/microsoft-xml-paper-specification-essentials-pack
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-3/xpsep-x86.msi
+SHA1 = 5d332ebd1025e294adafe72030fe33db707b2c82
+SizeBytes = 31884672
+Icon = xps.ico

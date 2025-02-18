@@ -1,0 +1,11 @@
+[Section]
+Name = Media Player Classic Home Cinema (MPC-HC)
+Version = 1.7.13.32
+License = Unknown
+Description = A FOSS Media Player that is bundled with K-Lite Codec Pack. Standalone version.
+Category = 2
+URLSite = https://mpc-hc.org
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/MPC-HC.1.7.13.32.x86.exe
+SHA1 = AB4B072F129C420F79683BFE73CF6402AE470B47
+SizeBytes = 13281648
+Icon = klite.ico

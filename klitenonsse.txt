@@ -1,0 +1,11 @@
+[Section]
+Name = K-Lite Codec Pack (Non-SSE CPU's)
+Version = 10.2.0 Full
+License = Unknown
+Description = Codec Pack for use with Media Player Classic. Version for CPU's without SSE Support.
+Category = 2
+URLSite = http://codecguide.com
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/K_Lite_Codec_Pack_Full_v10.2.0.exe
+SHA1 = 50F6AD457944816556EEF9DB31115379D8B46BC4
+SizeBytes = 27145161
+Icon = klite.ico

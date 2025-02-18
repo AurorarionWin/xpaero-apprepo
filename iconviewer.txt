@@ -1,0 +1,17 @@
+[Section]
+Name = IconViewer
+Version = 3.02
+License = FOSS
+Description = A Windows Explorer extension that adds Icon to file properties.
+Category = 12
+URLSite = http://www.botproductions.com/iconview/iconview.html
+URLDownload = http://www.botproductions.com/iconview/download/IconViewer3.02-Setup-x86.exe
+SHA1 = 9385F38EEC428B30158442A8301AE2DEBA2FD5E4
+SizeBytes = 700992
+
+
+[Section.amd64]
+Version = 3.02
+URLDownload = http://www.botproductions.com/iconview/download/IconViewer3.02-Setup-x64.exe
+SHA1 = F345E14B3B63E7A6374506B70BDE0D2224D59CDE
+SizeBytes = 1014042

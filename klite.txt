@@ -1,0 +1,11 @@
+[Section]
+Name = K-Lite Codec Pack
+Version = 13.8.5 Mega
+License = Unknown
+Description = Codec Pack for use with Media Player Classic.
+Category = 2
+URLSite = http://codecguide.com
+URLDownload = http://files2.codecguide.com/K-Lite_Codec_Pack_1385_Mega.exe
+SHA1 = 58A693BAA180C26578CC8C7DCD814B7AB9020595
+SizeBytes = 64575976
+Icon = klite.ico

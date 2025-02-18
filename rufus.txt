@@ -1,0 +1,11 @@
+[Section]
+Name = Rufus
+Version = 2.18
+License = Unknown
+Description = A tool for creating bootable USB drives.
+Category = 12
+URLSite = https://rufus.ie
+URLDownload = http://archive.org/download/rufus-2.18_202112/rufus-2.18.exe
+SHA1 = D0054FC533603004A107436F47BC020AFD54FA05
+SizeBytes = 967800
+Icon = rufus.ico

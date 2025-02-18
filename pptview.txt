@@ -1,0 +1,11 @@
+[Section]
+Name = Microsoft PowerPoint Viewer
+Version = 2010
+License = Unknown
+Description = Freeware presentation viewer for Office formats (*.ppt).
+Category = 10
+URLSite = http://support.microsoft.com/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-firstparty/PowerPointViewer.exe
+SHA1 = ab48a8ebac88219c84f293c6c1e81f1a0f420da6
+SizeBytes = 63210976
+Icon = pptview.ico

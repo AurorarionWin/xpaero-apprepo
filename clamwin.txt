@@ -1,0 +1,12 @@
+[Section]
+Name = ClamWin Free Antivirus
+Version = 0.103.2.1
+License = GPL
+LicenseInfo = 1
+Description = ClamWin is a free antivirus program for Windows 98/2000/Me/XP/Vista/7/8/8.1/10/11 and Windows Server 2003, 2008, 2008 R2, 2012, 2012 R2, 2016, 2019, and 2022.
+Category = 12
+URLSite = http://www.clamwin.com/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/clamwin-0.103.2.1-setup.exe
+SHA1 = f75d795dd6c31ea646cd944ec944c3e8be2a8f17
+SizeBytes = 236832816
+Icon = clamwin.ico

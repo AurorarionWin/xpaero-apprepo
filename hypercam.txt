@@ -1,0 +1,11 @@
+[Section]
+Name = HyperCam
+Version = 2.0
+License = Unknown
+Description = A old, paid Video Recorder popular for being used in vintage YouTube Tutorials. (Unregistered Version)
+Category = 2
+URLSite = https://www.hyperionics.com/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/HC2Setup.exe
+SHA1 = 1B048D127670EA9C113C3582C7D2BFDE2BC4B32A
+SizeBytes = 646896
+Icon = hypercam.ico

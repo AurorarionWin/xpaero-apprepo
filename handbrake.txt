@@ -1,0 +1,11 @@
+[Section]
+Name = HandBrake
+Version = 3.0.18
+License = Unknown
+Description = A tool to convert video/audio files.
+Category = 2
+URLSite = http://www.handbrake.fr
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/HandBrake-0.9.9-1_x86_64-Win_GUI.exe
+SHA1 = 011F7F179D649EF301955D2B7E5D24FD7F6A4BC2
+SizeBytes = 14298467
+Icon = handbrake.ico
