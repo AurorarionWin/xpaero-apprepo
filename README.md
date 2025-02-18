@@ -1,2 +1,3 @@
-# sonomaxp-app-repo-v2
-This serves as a continuation for the repository for now-cancelled XP Unity project, as well, as the update for the Sonoma XP app repository.
+# Windows XP Aero Marketplace 
+This is a work in progress and needs some work. It's a continuation of app repository of both discontinued XP Unity and Sonoma XP projects but made for Windows XP Aero.
+It adds new stuff to appear in here in the future.
